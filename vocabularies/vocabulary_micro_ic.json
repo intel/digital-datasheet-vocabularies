@@ -1,0 +1,72 @@
+{
+    "guid": "c37b6b26-f58d-4000-af2e-a026328058fe",
+    "specification": "IEC 61360-4",
+    "description": "IEC 61360 Part 4 Vocabulary File",
+    "uri": "https://cdd.iec.ch/cdd/iec61360/iec61360.nsf/TreeFrameset?OpenFrameSet",
+    "automationUri": "https://cdd.iec.ch/cdd/iec61360/iec61360.nsf/TU0/",
+    "vocabulary": [
+        {
+            "type": []
+        },
+        {
+            "title": []
+        },
+        {
+            "oneOf": []
+        },
+        {
+            "required": []
+        },
+        {
+            "properties": []
+        },
+        {
+            "componentID": []
+        },
+        {
+            "description": []
+        },
+        {
+            "onChipFlash": []
+        },
+        {
+            "comment": []
+        },
+        {
+            "onChipRAM": []
+        },
+        {
+            "onChipROM": []
+        },
+        {
+            "coreProcessor": []
+        },
+        {
+            "examples": []
+        },
+        {
+            "coreArchitectureBits": []
+        },
+        {
+            "clockSpeed": []
+        },
+        {
+            "firmwareVersion": []
+        },
+        {
+            "activePower": []
+        },
+        {
+            "standbyPower": []
+        },
+        {
+            "pins": []
+        },
+        {
+            "items": []
+        },
+        {
+            "package": []
+        }
+    ]
+}
