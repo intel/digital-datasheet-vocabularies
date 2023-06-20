@@ -1,0 +1,223 @@
+{
+    "description": "Modern Standby Unified Checklist Map file",
+    "guid": "c7e77711-4acf-49cf-9330-266a514b7a0d",
+    "mapType": "spreadsheet",
+    "datasheetDescLocation": {
+        "sheetName": "Legal Disclaimer",
+        "row": 7,
+        "col": "A"
+    },
+    "sheets": [
+        {
+            "sheetName": "Revision History",
+            "includeInDatasheet": true,
+            "ignoreBlanks": true,
+            "ignoreRows": [],
+            "ignoreCols": [],
+            "sections": [
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 2,
+                            "col": "A"
+                        },
+                        "dataStartRow": 3,
+                        "maxRows": 89
+                    },
+                    "fieldHeaders": {
+                        "row": 2
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D",
+                            "E"
+                        ]
+                    },
+                    "groupBy": [
+                        {
+                            "name": {
+                                "row": 1,
+                                "col": "C"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sheetName": "Pinlist",
+            "includeInDatasheet": true,
+            "ignoreBlanks": true,
+            "ignoreRows": [],
+            "ignoreCols": [],
+            "sections": [
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 1,
+                            "col": "A"
+                        },
+                        "dataStartRow": 2,
+                        "maxRows": 1782
+                    },
+                    "fieldHeaders": {
+                        "row": 1
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D",
+                            "E",
+                            "F",
+                            "G",
+                            "H",
+                            "I",
+                            "J"
+                        ]
+                    }
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": [
+                            {
+                                "row": 1785,
+                                "col": "B"
+                            },
+                            {
+                                "row": 1786,
+                                "col": "B"
+                            }
+                        ],
+                        "dataStartRow": 1787,
+                        "maxRows": 159
+                    },
+                    "fieldHeaders": {
+                        "row": 1
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D",
+                            "E",
+                            "F",
+                            "G",
+                            "H",
+                            "I",
+                            "J"
+                        ]
+                    }
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": [
+                            {
+                                "row": 1947,
+                                "col": "B"
+                            },
+                            {
+                                "row": 1948,
+                                "col": "B"
+                            }
+                        ],
+                        "dataStartRow": 1949,
+                        "maxRows": 103
+                    },
+                    "fieldHeaders": {
+                        "row": 1
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D",
+                            "E",
+                            "F",
+                            "G",
+                            "H",
+                            "I",
+                            "J"
+                        ]
+                    }
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 2053,
+                            "col": "B"
+                        },
+                        "dataStartRow": 2054,
+                        "maxRows": 1
+                    },
+                    "fieldHeaders": {
+                        "row": 1
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D",
+                            "E",
+                            "F",
+                            "G",
+                            "H",
+                            "I",
+                            "J"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "sheetName": "Legacy Signal Name Changes",
+            "includeInDatasheet": true,
+            "ignoreBlanks": true,
+            "ignoreRows": [],
+            "ignoreCols": [],
+            "sections": [
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 1,
+                            "col": "A"
+                        },
+                        "dataStartRow": 2,
+                        "maxRows": 12
+                    },
+                    "fieldHeaders": {
+                        "row": 1
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
