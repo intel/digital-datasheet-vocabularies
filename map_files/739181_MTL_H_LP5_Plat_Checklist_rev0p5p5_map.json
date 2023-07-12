@@ -1,0 +1,1190 @@
+{
+    "description": "MTL_H_LP5 Platform Checklist",
+    "guid": "3694105e-6f8e-4013-a05d-b79d34a32444",
+    "mapType": "spreadsheet",
+    "datasheetDescLocation": {
+        "sheetName": "Legal Disclaimer",
+        "row": 7,
+        "col": "A"
+    },
+    "sheets": [
+        {
+            "sheetName": "FW Components",
+            "includeInDatasheet": true,
+            "ignoreBlanks": true,
+            "ignoreRows": [],
+            "ignoreCols": [],
+            "sections": [
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 6,
+                            "col": "B"
+                        },
+                        "dataStartRow": 7,
+                        "maxRows": 1
+                    },
+                    "fieldHeaders": {
+                        "row": 6
+                    },
+                    "spans": {
+                        "columns": [
+                            "B",
+                            "C"
+                        ]
+                    },
+                    "groupBy": [
+                        {
+                            "name": {
+                                "row": 4,
+                                "col": "B"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "B",
+                                    "C"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 12,
+                            "col": "B"
+                        },
+                        "dataStartRow": 13,
+                        "maxRows": 28 
+                    },
+                    "fieldHeaders": {
+                        "row": 12
+                    },
+                    "spans": {
+                        "columns": [
+                            "B",
+                            "C",
+                            "D"
+                        ]
+                    },
+                    "groupBy": [
+                        {
+                            "name": {
+                                "row": 4,
+                                "col": "B"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "B",
+                                    "C",
+                                    "D"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "indexOn":{
+                        "orientation": "column",
+                        "header": {
+                            "row": 46,
+                            "col": "B"
+                        },
+                        "dataStartRow": 47,
+                        "maxRows": 36
+                },
+                "fieldHeaders": {
+                    "row": 46
+                },
+                "spans": {
+                    "columns": [
+                        "B",
+                        "C"
+                    ]
+                },
+                "groupBy": [
+                    {
+                        "name": {
+                            "row": 4,
+                            "col": "B"
+                        },
+                        "spans": {
+                            "columns": [
+                                "B",
+                                "C"
+                            ]
+                        }
+                    }
+                ]
+            
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 6,
+                            "col": "I"
+                        },
+                        "dataStartRow": 7,
+                        "maxRows": 1
+                    },
+                        "fieldHeaders":{
+                            "row": 6
+                        },
+                        "spans": {
+                            "columns": [
+                                "I",
+                                "J"
+                            ]
+                        },
+                        "groupBy": [
+                            {
+                                "name": {
+                                    "row": 4,
+                                    "col": "I"
+                                },
+                                "spans": {
+                                    "columns": [
+                                        "I",
+                                        "J"
+                                    ]
+                                }
+                            }
+                        ]
+                    
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 12,
+                            "col": "J"
+                        },
+                        "dataStartRow": 13,
+                        "maxRows":28
+                     },
+                     "fieldHeaders": {
+                        "row": 12
+                     },
+                     "spans": {
+                        "columns": [
+                            "I",
+                            "J",
+                            "K"
+                        ]
+                     },
+                     "groupBy": [
+                        {
+                            "name": {
+                                "row": 4,
+                                "col": "I"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "I",
+                                    "J",
+                                    "K"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 46,
+                            "col": "J"
+                        },
+                        "dataStartRow": 47,
+                        "maxRows": 36
+                    },
+                    "fieldHeaders": {
+                        "row": 46
+                    },
+                    "spans": {
+                        "columns": [
+                            "I",
+                            "J"
+                        ]
+                    },
+                    "groupBy": [
+                        {
+                            "name": {
+                                "row": 4,
+                                "col": "I"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "I",
+                                    "J"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+    
+        },
+        {
+            "sheetName": "GPIO_P_LP5",
+            "includeInDatasheet": true,
+            "ignoreBlanks": true,
+            "ignoreRows": [],
+            "ignoreCols": [],
+            "sections": [
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 7,
+                            "col": "A"
+                        },
+                        "dataStartRow": 9,
+                        "maxRows": 41
+                    },
+                    "fieldHeaders": {
+                        "row": 8
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D",
+                            "E",
+                            "F",
+                            "G",
+                            "J",
+                            "K",
+                            "L",
+                            "M",
+                            "N",
+                            "O",
+                            "P",
+                            "Q",
+                            "R",
+                            "S",
+                            "T",
+                            "U",
+                            "V",
+                            "W",
+                            "X",
+                            "Y",
+                            "Z",
+                            "AA",
+                            "AB",
+                            "AC",
+                            "AD",
+                            "AE",
+                            "AF",
+                            "AG"
+                        ]
+                    }
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 52,
+                            "col": "A"
+                        },
+                        "dataStartRow":54,
+                        "maxRows": 36
+                    },
+                    "fieldHeaders": {
+                        "row": 53
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D",
+                            "E",
+                            "F",
+                            "G",
+                            "J",
+                            "K",
+                            "L",
+                            "M",
+                            "N",
+                            "O",
+                            "P",
+                            "Q",
+                            "R",
+                            "S",
+                            "T",
+                            "U",
+                            "V",
+                            "W",
+                            "X",
+                            "Y",
+                            "Z",
+                            "AA",
+                            "AB",
+                            "AC",
+                            "AD",
+                            "AE",
+                            "AF",
+                            "AG"
+                        ]
+                    }
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 92,
+                            "col": "A"
+                        },
+                        "dataStartRow": 94,
+                        "maxRows": 43
+                    },
+                    "fieldHeaders": {
+                        "row": 93
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D",
+                            "E",
+                            "F",
+                            "G",
+                            "J",
+                            "K",
+                            "L",
+                            "M",
+                            "N",
+                            "O",
+                            "P",
+                            "Q",
+                            "R",
+                            "S",
+                            "T",
+                            "U",
+                            "V",
+                            "W",
+                            "X",
+                            "Y",
+                            "Z",
+                            "AA",
+                            "AB",
+                            "AC",
+                            "AD",
+                            "AE",
+                            "AF",
+                            "AG"
+                        ]
+                    }
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 139,
+                            "col": "A"
+                        },
+                        "dataStartRow": 141,
+                        "maxRows": 7
+                    },
+                    "fieldHeaders": {
+                        "row": 140
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D",
+                            "E",
+                            "F",
+                            "G",
+                            "J",
+                            "K",
+                            "L",
+                            "M",
+                            "N",
+                            "O",
+                            "P",
+                            "Q",
+                            "R",
+                            "S",
+                            "T",
+                            "U",
+                            "V",
+                            "W",
+                            "X",
+                            "Y",
+                            "Z",
+                            "AA",
+                            "AB",
+                            "AC",
+                            "AD",
+                            "AE",
+                            "AF",
+                            "AG"
+                        ]
+                    }
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 150,
+                            "col": "A"
+                        },
+                        "dataStartRow": 152,
+                        "maxRows": 47
+                    },
+                    "fieldHeaders": {
+                        "row": 151
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D",
+                            "E",
+                            "F",
+                            "G",
+                            "J",
+                            "K",
+                            "L",
+                            "M",
+                            "N",
+                            "O",
+                            "P",
+                            "Q",
+                            "R",
+                            "S",
+                            "T",
+                            "U",
+                            "V",
+                            "W",
+                            "X",
+                            "Y",
+                            "Z",
+                            "AA",
+                            "AB",
+                            "AC",
+                            "AD",
+                            "AE",
+                            "AF",
+                            "AG"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "sheetName": "HSIO_P",
+            "includeInDatasheet": true,
+            "ignoreBlanks": true,
+            "ignoreRows": [],
+            "ignoreCols": [],
+            "sections": [
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 13,
+                            "col": "C"
+                        },
+                        "dataStartRow": 14,
+                        "maxRows": 14
+                    },
+                    "fieldHeaders": {
+                        "row": 13
+                    },
+                    "spans": {
+                        "columns": [
+                            "C",
+                            "D",
+                            "E",
+                            "F"
+                        ]
+                    },
+                    "groupBy": [
+                        {
+                            "name": {
+                                "row": 11,
+                                "col": "C"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "C",
+                                    "D"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "row": 12,
+                                "col": "E"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "E",
+                                    "F"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 34,
+                            "col": "C"
+                        },
+                        "dataStartRow": 35,
+                        "maxRows": 8
+                    },
+                    "fieldHeaders": {
+                        "row": 34
+                    },
+                    "spans": {
+                        "columns":[
+                            "C",
+                            "D",
+                            "E",
+                            "F"
+                        ]
+                    },
+                    "groupBy": [
+                        {
+                            "name": {
+                                "row": 33,
+                                "col": "E"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "E",
+                                    "F"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 13,
+                            "col": "M"
+                        },
+                        "dataStartRow": 14,
+                        "maxRows": 14
+                    },
+                    "fieldHeaders": {
+                        "row": 13
+                    },
+                    "spans": {
+                        "columns": [
+                            "M",
+                            "N",
+                            "O",
+                            "P"
+                        ]
+                    },
+                    "groupBy": [
+                        {
+                            "name": {
+                                "row": 11,
+                                "col": "M"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "M",
+                                    "N",
+                                    "O",
+                                    "P"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 34,
+                            "col": "M"
+                        },
+                        "dataStartRow": 35,
+                        "maxRows": 8
+                    },
+                    "fieldHeaders": {
+                        "row": 34
+                    },
+                    "spans": {
+                        "columns": [
+                            "M",
+                            "N",
+                            "O",
+                            "P"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "sheetName": "USB_P",
+            "includeInDatasheet": true,
+            "ignoreBlanks": true,
+            "ignoreRows": [],
+            "ignoreCols": [],
+            "sections": [
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 6,
+                            "col": "B"
+                        },
+                        "dataStartRow": 7,
+                        "maxRows": 9
+                    },
+                    "fieldHeaders": {
+                        "row": 6
+                    },
+                    "spans": {
+                        "columns": [
+                            "B",
+                            "C",
+                            "D",
+                            "E"
+                        ]
+                    },
+                    "groupBy": [
+                        {
+                            "name": {
+                                "row": 4,
+                                "col": "B"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "B",
+                                    "C"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "row": 5,
+                                "col": "D"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "D",
+                                    "E"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 20,
+                            "col": "B"
+                        },
+                        "dataStartRow": 21,
+                        "maxRows": 1
+                    },
+                    "fieldHeaders": {
+                        "row": 20
+                    },
+                    "spans": {
+                        "columns": [
+                            "B",
+                            "C",
+                            "D",
+                            "E"
+                        ]
+                    },
+                    "groupBy": [
+                        {
+                            "name": {
+                                "row": 19,
+                                "col": "D"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "D",
+                                    "E"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 5,
+                            "col": "L"
+                        },
+                        "dataStartRow": 7,
+                        "maxRows": 9
+                    },
+                    "fieldHeaders": {
+                        "row": 5
+                    },
+                    "spans":{
+                        "columns":[
+                            "L",
+                            "M",
+                            "N",
+                            "O"
+                        ]
+                    },
+                    "groupBy": [
+                        {
+                            "name": {
+                                "row": 4,
+                                "col": "L"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "L",
+                                    "M",
+                                    "N",
+                                    "O"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "indexOn" : {
+                        "orientation": "column",
+                        "header": {
+                            "row": 20,
+                            "col": "L"
+                        },
+                        "dataStartRow": 21,
+                        "maxRows":1
+                    },
+                    "fieldHeaders": {
+                        "row": 20
+                    },
+                    "spans": {
+                        "columns": [
+                            "L",
+                            "M",
+                            "N",
+                            "O"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "sheetName": "SMBUS_P",
+            "includeInDatasheet": true,
+            "ignoreBlanks": true,
+            "ignoreRows": [14],
+            "ignoreCols": [],
+            "sections": [
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 5,
+                            "col": "B"
+                        },
+                        "dataStartRow": 6,
+                        "maxRows": 31
+                    },
+                    "fieldHeaders": {
+                        "row": 5
+                    },
+                    "spans": {
+                        "columns": [
+                            "B",
+                            "C",
+                            "D",
+                            "E"
+                        ]
+                    },
+                    "groupBy": [
+                        {
+                            "name": {
+                                "row": 3,
+                                "col": "B"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 5,
+                            "col": "H"
+                        },
+                        "dataStartRow": 6,
+                        "maxRows": 30
+                    },
+                    "fieldHeaders": {
+                        "row": 5
+                    },
+                    "spans": {
+                        "columns": [
+                            "H"
+                        ]
+                    },
+                    "groupBy": [
+                        {
+                            "name": {
+                                "row": 3,
+                                "col": "H"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "H"
+                                ]
+                            }
+                        }
+                    ]
+                }      
+
+            ]
+        },
+        {
+            "sheetName": "LPSS_P",
+            "includeInDatasheet": true,
+            "ignoreBlanks": true,
+            "ignoreRows": [7],
+            "ignoreCols": [],
+            "sections": [
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 5,
+                            "col": "B"
+                        },
+                        "dataStartRow": 6,
+                        "maxRows": 14
+                    },
+                    "fieldHeaders": {
+                        "row": 5
+                    },
+                    "spans": {
+                        "columns": [
+                            "B",
+                            "C",
+                            "D",
+                            "E"
+                        ]
+                    },
+                    "groupBy": [
+                        {
+                            "name": {
+                                "row": 3,
+                                "col": "B"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 24,
+                            "col": "B"
+                        },
+                        "dataStartRow": 25,
+                        "maxRows": 18
+                    },
+                    "fieldHeaders": {
+                        "row": 24
+                    },
+                    "spans": {
+                        "columns": [
+                            "B",
+                            "C",
+                            "D",
+                            "E",
+                            "F"
+                        ]
+                    },
+                    "groupBy": [
+                        {
+                            "name": {
+                                "row": 3,
+                                "col": "B"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E",
+                                    "F"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 47,
+                            "col": "B"
+                        },
+                        "dataStartRow": 48,
+                        "maxRows": 12
+                    },
+                    "fieldHeaders": {
+                        "row": 47
+                    },
+                    "spans": {
+                        "columns": [
+                            "B",
+                            "C",
+                            "D",
+                            "E"
+                        ]
+                    },
+                    "groupBy": [
+                        {
+                            "name": {
+                                "row": 3,
+                                "col": "B"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 64,
+                            "col": "B"
+                        },
+                        "dataStartRow": 65,
+                        "maxRows": 3
+                    },
+                    "fieldHeaders": {
+                        "row": 64
+                    },
+                    "spans": {
+                        "columns": [
+                            "B",
+                            "C",
+                            "D",
+                            "E"
+                        ]
+                    },
+                    "groupBy": [
+                        {
+                            "name": {
+                                "row": 3,
+                                "col": "B"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 5,
+                            "col": "I"
+                        },
+                        "dataStartRow": 6,
+                        "maxRows": 14
+                    },
+                    "fieldHeaders": {
+                        "row": 5
+                    },
+                    "spans": {
+                        "columns": [
+                            "I",
+                            "J",
+                            "K",
+                            "L"
+                        ]
+                    },
+                    "groupBy": [
+                        {
+                            "name": {
+                                "row": 3,
+                                "col": "I"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "I",
+                                    "J",
+                                    "K",
+                                    "L"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 24,
+                            "col": "I"
+                        },
+                        "dataStartRow": 25,
+                        "maxRows": 18
+                    },
+                    "fieldHeaders": {
+                        "row": 24
+                    },
+                    "spans": {
+                        "columns": [
+                            "I",
+                            "J",
+                            "K",
+                            "L",
+                            "M"
+                        ]
+                    },
+                    "groupBy": [
+                        {
+                            "name": {
+                                "row": 3,
+                                "col": "I"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "I",
+                                    "J",
+                                    "K",
+                                    "L",
+                                    "M"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column", 
+                        "header": {
+                            "row": 47,
+                            "col": "I"
+                        },
+                        "dataStartRow": 48,
+                        "maxRows": 10
+                    },
+                    "fieldHeaders": {
+                        "row": 47
+                    },
+                    "spans": {
+                        "columns": [
+                            "I",
+                            "J",
+                            "K",
+                            "L"
+                        ]
+                    },
+                    "groupBy": [
+                        {
+                            "name": {
+                                "row": 3,
+                                "col": "I"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "I",
+                                    "J",
+                                    "K",
+                                    "L"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 64,
+                            "col": "I"
+                        },
+                        "dataStartRow": 66,
+                        "maxRows": 2
+                    },
+                    "fieldHeaders": {
+                        "row": 64
+                    },
+                    "spans": {
+                        "columns": [
+                            "I",
+                            "J",
+                            "K",
+                            "L"
+                        ]
+                    },
+                    "groupBy": [
+                        {
+                            "name": {
+                                "row": 3,
+                                "col": "I"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "I",
+                                    "J",
+                                    "K",
+                                    "L"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+       
+    ]
+}
