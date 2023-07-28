@@ -1,0 +1,242 @@
+{
+    "description": "Modern Standby Unified Checklist Map file",
+    "guid": "e1d7a40c-5709-4077-84e2-18d2cb9dfc4c",
+    "mapType": "spreadsheet",
+    "datasheetDescLocation": {
+        "sheetName": "Legal Disclaimer",
+        "row": 7,
+        "col": "A"
+    },
+    "sheets": [
+        {
+            "sheetName": "ADL_RPL",
+            "includeInDatasheet": true,
+            "ignoreBlanks": true,
+            "ignoreRows": [],
+            "ignoreCols": [],
+            "sections": [
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 4,
+                            "col": "A"
+                        },
+                        "dataStartRow": 6,
+                        "maxRows": 18
+                    },
+                    "fieldHeaders": {
+                        "row": 5
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C"
+                        ]
+                    }
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 27,
+                            "col": "A"
+                        },
+                        "dataStartRow": 29,
+                        "maxRows": 18
+                    },
+                    "fieldHeaders": {
+                        "row": 28
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D"
+                        ]
+                    }
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 49,
+                            "col": "A"
+                        },
+                        "dataStartRow": 51,
+                        "maxRows": 18
+                    },
+                    "fieldHeaders": {
+                        "row": 50
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C"
+                        ]
+                    }
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 71,
+                            "col": "A"
+                        },
+                        "dataStartRow": 72,
+                        "maxRows": 10
+                    },
+                    "fieldHeaders": {
+                        "row": 71
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "sheetName": "MTL",
+            "includeInDatasheet": true,
+            "ignoreBlanks": true,
+            "ignoreRows": [],
+            "ignoreCols": [],
+            "sections": [
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 3,
+                            "col": "A"
+                        },
+                        "dataStartRow": 5,
+                        "maxRows": 18
+                    },
+                    "fieldHeaders": {
+                        "row": 4
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C"
+                        ]
+                    }
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 26,
+                            "col": "A"
+                        },
+                        "dataStartRow": 28,
+                        "maxRows": 18
+                    },
+                    "fieldHeaders": {
+                        "row": 27
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D"
+                        ]
+                    }
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 48,
+                            "col": "A"
+                        },
+                        "dataStartRow": 50,
+                        "maxRows": 2
+                    },
+                    "fieldHeaders": {
+                        "row": 49
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C"
+                        ]
+                    }
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 54,
+                            "col": "A"
+                        },
+                        "dataStartRow": 56,
+                        "maxRows": 17
+                    },
+                    "fieldHeaders": {
+                        "row": 55
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C"
+                        ]
+                    }
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 77,
+                            "col": "A"
+                        },
+                        "dataStartRow": 79,
+                        "maxRows": 3
+                    },
+                    "fieldHeaders": {
+                        "row": 78
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C"
+                        ]
+                    }
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 88,
+                            "col": "A"
+                        },
+                        "dataStartRow": 90,
+                        "maxRows": 3
+                    },
+                    "fieldHeaders": {
+                        "row": 89
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
