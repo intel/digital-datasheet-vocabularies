@@ -1,0 +1,255 @@
+{
+    "description": "Modern Standby Unified Checklist Map file",
+    "guid": "c7e77711-4acf-49cf-9330-266a514b7a0d",
+    "mapType": "spreadsheet",
+    "datasheetDescLocation": {
+        "sheetName": "Cover",
+        "row": 13,
+        "col": "B"
+    },
+    "sheets": [
+        {
+            "sheetName": "Pin Strap Check",
+            "includeInDatasheet": true,
+            "ignoreBlanks": true,
+            "ignoreRows": [],
+            "ignoreCols": [],
+            "sections": [
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 10,
+                            "col": "A"
+                        },
+                        "dataStartRow": 11,
+                        "maxRows": 16
+                    },
+                    "fieldHeaders": {
+                        "row": 10
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D",
+                            "E",
+                            "F",
+                            "G",
+                            "H",
+                            "I",
+                            "J",
+                            "K",
+                            "L"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "sheetName": "Power_Rail_Sequence_Check",
+            "includeInDatasheet": true,
+            "ignoreBlanks": true,
+            "ignoreRows": [],
+            "ignoreCols": [],
+            "sections": [
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 12,
+                            "col": "A"
+                        },
+                        "dataStartRow": 14,
+                        "maxRows": 22
+                    },
+                    "fieldHeaders": {
+                        "row": 13
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D",
+                            "E",
+                            "F",
+                            "G",
+                            "J",
+                            "K",
+                            "L",
+                            "M",
+                            "N",
+                            "O",
+                            "P",
+                            "Q"
+                        ]
+                    },
+                    "groupBy": [
+                        {
+                            "name": {
+                                "row": 12,
+                                "col": "F"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "F",
+                                    "G",
+                                    "J"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "row": 12,
+                                "col": "K"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "K",
+                                    "L",
+                                    "M",
+                                    "N",
+                                    "O",
+                                    "P",
+                                    "Q"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 40,
+                            "col": "A"
+                        },
+                        "dataStartRow": 42,
+                        "maxRows": 24
+                    },
+                    "fieldHeaders": {
+                        "row": 41
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D",
+                            "E",
+                            "F",
+                            "G",
+                            "J",
+                            "K",
+                            "L",
+                            "M",
+                            "N",
+                            "O",
+                            "P",
+                            "Q"
+                        ]
+                    },
+                    "groupBy": [
+                        {
+                            "name": {
+                                "row": 40,
+                                "col": "F"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "F",
+                                    "G",
+                                    "J"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "row": 40,
+                                "col": "K"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "K",
+                                    "L",
+                                    "M",
+                                    "N",
+                                    "O",
+                                    "P",
+                                    "Q"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sheetName": "Timing_Requirements",
+            "includeInDatasheet": true,
+            "ignoreBlanks": true,
+            "ignoreRows": [14, 15, 16, 18, 19, 20, 22, 24, 26, 27, 28, 30, 
+                            31, 32, 34, 35, 36, 38, 39, 40, 42, 43, 44, 51, 52,
+                            53, 55, 56, 57, 59, 60, 61, 63,64, 65, 67, 68, 69],
+            "ignoreCols": [],
+            "sections": [
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 10,
+                            "col": "A"
+                        },
+                        "dataStartRow": 13,
+                        "maxRows": 31
+                    },
+                    "fieldHeaders": {
+                        "row": 12
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D",
+                            "E",
+                            "F",
+                            "G",
+                            "H",
+                            "I"
+                        ]
+                    }
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 47,
+                            "col": "A"
+                        },
+                        "dataStartRow": 50,
+                        "maxRows": 19
+                    },
+                    "fieldHeaders": {
+                        "row": 49
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D",
+                            "E",
+                            "F",
+                            "G",
+                            "H",
+                            "I"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

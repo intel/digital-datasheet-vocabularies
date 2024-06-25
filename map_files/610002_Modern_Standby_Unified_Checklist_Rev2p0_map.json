@@ -1,0 +1,601 @@
+{
+    "description": "Modern Standby Unified Checklist Map file",
+    "guid": "c7e77711-4acf-49cf-9330-266a514b7a0d",
+    "mapType": "spreadsheet",
+    "datasheetDescLocation": {
+        "sheetName": "Legal Disclaimer",
+        "row": 2,
+        "col": "A"
+    },
+    "sheets": [
+        {
+            "sheetName": "Modern Standby Checklist",
+            "includeInDatasheet": true,
+            "ignoreBlanks": true,
+            "ignoreRows": [92, 93, 95, 96, 99, 100, 102, 103],
+            "ignoreCols": [],
+            "sections": [
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 6,
+                            "col": "A"
+                        },
+                        "dataStartRow": 7,
+                        "maxRows": 79
+                    },
+                    "fieldHeaders": {
+                        "row": 6
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D",
+                            "E",
+                            "F"
+                        ]
+                    }
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 88,
+                            "col": "A"
+                        },
+                        "dataStartRow": 90,
+                        "maxRows": 13
+                    },
+                    "fieldHeaders": {
+                        "row": 89
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D",
+                            "E",
+                            "F"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "sheetName": "BOM_Review",
+            "includeInDatasheet": true,
+            "ignoreBlanks": true,
+            "ignoreRows": [],
+            "ignoreCols": [],
+            "sections": [
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 3,
+                            "col": "B"
+                        },
+                        "dataStartRow": 5,
+                        "maxRows": 53
+                    },
+                    "fieldHeaders": {
+                        "row": 4
+                    },
+                    "spans": {
+                        "columns": [
+                            "B",
+                            "C",
+                            "D",
+                            "E",
+                            "F",
+                            "G",
+                            "H",
+                            "I"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "sheetName": "PCH GPIO",
+            "includeInDatasheet": true,
+            "ignoreBlanks": true,
+            "ignoreRows": [],
+            "ignoreCols": [],
+            "sections": [
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 2,
+                            "col": "A"
+                        },
+                        "dataStartRow": 3,
+                        "maxRows": 7
+                    },
+                    "fieldHeaders": {
+                        "row": 2
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D",
+                            "E",
+                            "F",
+                            "G",
+                            "H",
+                            "I",
+                            "J",
+                            "K",
+                            "L",
+                            "M",
+                            "N",
+                            "O",
+                            "P",
+                            "Q",
+                            "R",
+                            "S",
+                            "T"
+                        ]
+                    },
+                    "groupBy": [
+                        {
+                            "name": {
+                                "row": 1,
+                                "col": "A"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E",
+                                    "F"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "row": 1,
+                                "col": "G"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "G",
+                                    "H",
+                                    "I",
+                                    "J",
+                                    "K",
+                                    "L",
+                                    "M",
+                                    "N",
+                                    "O",
+                                    "P",
+                                    "Q"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "row": 1,
+                                "col": "R"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "R",
+                                    "S",
+                                    "T"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sheetName": "EC GPIO",
+            "includeInDatasheet": true,
+            "ignoreBlanks": true,
+            "ignoreRows": [],
+            "ignoreCols": [],
+            "sections": [
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 2,
+                            "col": "A"
+                        },
+                        "dataStartRow": 3,
+                        "maxRows": 7
+                    },
+                    "fieldHeaders": {
+                        "row": 2
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D",
+                            "E",
+                            "F",
+                            "G",
+                            "H",
+                            "I",
+                            "J",
+                            "K",
+                            "L",
+                            "M",
+                            "N",
+                            "O",
+                            "P",
+                            "Q",
+                            "R",
+                            "S",
+                            "T"
+                        ]
+                    },
+                    "groupBy": [
+                        {
+                            "name": {
+                                "row": 1,
+                                "col": "A"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "A",
+                                    "B",
+                                    "C",
+                                    "D",
+                                    "E",
+                                    "F"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "row": 1,
+                                "col": "G"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "G",
+                                    "H",
+                                    "I",
+                                    "J",
+                                    "K",
+                                    "L",
+                                    "M",
+                                    "N",
+                                    "O",
+                                    "P",
+                                    "Q"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "row": 1,
+                                "col": "R"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "R",
+                                    "S",
+                                    "T"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sheetName": "PowerRail_RPL_S",
+            "includeInDatasheet": true,
+            "ignoreBlanks": true,
+            "ignoreRows": [],
+            "ignoreCols": [],
+            "sections": [
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 3,
+                            "col": "B"
+                        },
+                        "dataStartRow": 5,
+                        "maxRows": 16
+                    },
+                    "fieldHeaders": {
+                        "row": 4
+                    },
+                    "spans": {
+                        "columns": [
+                            "B",
+                            "C",
+                            "D",
+                            "E",
+                            "F",
+                            "G"
+                        ]
+                    },
+                    "groupBy": [
+                        {
+                            "name": {
+                                "row": 3,
+                                "col": "B"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "B"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "row": 3,
+                                "col": "C"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "C",
+                                    "D"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "row": 3,
+                                "col": "E"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "E",
+                                    "F"
+                            ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "row": 3,
+                                "col": "G"
+                            },
+                            "spans": {
+                                "columns": [
+                                    "G"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sheetName": "HSIO_RPL_Map",
+            "includeInDatasheet": true,
+            "ignoreBlanks": true,
+            "ignoreRows": [],
+            "ignoreCols": [],
+            "sections": [
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 3,
+                            "col": "A"
+                        },
+                        "dataStartRow": 4,
+                        "maxRows": 105
+                    },
+                    "fieldHeaders": {
+                        "row": 3
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D",
+                            "E",
+                            "F"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "sheetName": "BIOS_Checklist",
+            "includeInDatasheet": true,
+            "ignoreBlanks": true,
+            "ignoreRows": [15, 17, 20, 50],
+            "ignoreCols": [],
+            "sections": [
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 1,
+                            "col": "A"
+                        },
+                        "dataStartRow": 3,
+                        "maxRows": 3
+                    },
+                    "fieldHeaders": {
+                        "row": 2
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D",
+                            "E",
+                            "F"
+                        ]
+                    }
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 8,
+                            "col": "A"
+                        },
+                        "dataStartRow": 10,
+                        "maxRows": 13
+                    },
+                    "fieldHeaders": {
+                        "row": 9
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D",
+                            "E",
+                            "F"
+                        ]
+                    }
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 26,
+                            "col": "A"
+                        },
+                        "dataStartRow": 28,
+                        "maxRows": 4
+                    },
+                    "fieldHeaders": {
+                        "row": 27
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D",
+                            "E",
+                            "F"
+                        ]
+                    }
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 35,
+                            "col": "A"
+                        },
+                        "dataStartRow": 37,
+                        "maxRows": 26
+                    },
+                    "fieldHeaders": {
+                        "row": 36
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D",
+                            "E",
+                            "F"
+                        ]
+                    }
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 65,
+                            "col": "A"
+                        },
+                        "dataStartRow": 67,
+                        "maxRows": 1
+                    },
+                    "fieldHeaders": {
+                        "row": 66
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D",
+                            "E",
+                            "F"
+                        ]
+                    }
+                },
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 71,
+                            "col": "A"
+                        },
+                        "dataStartRow": 72,
+                        "maxRows": 2
+                    },
+                    "fieldHeaders": {
+                        "row": 66
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D",
+                            "E",
+                            "F"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "sheetName": "Wake_Sources",
+            "includeInDatasheet": true,
+            "ignoreBlanks": true,
+            "ignoreRows": [],
+            "ignoreCols": [],
+            "sections": [
+                {
+                    "indexOn": {
+                        "orientation": "column",
+                        "header": {
+                            "row": 1,
+                            "col": "A"
+                        },
+                        "dataStartRow": 2,
+                        "maxRows": 82
+                    },
+                    "fieldHeaders": {
+                        "row": 1
+                    },
+                    "spans": {
+                        "columns": [
+                            "A",
+                            "B",
+                            "C",
+                            "D",
+                            "E"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
